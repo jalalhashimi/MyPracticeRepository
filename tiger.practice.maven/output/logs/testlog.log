@@ -1,0 +1,45 @@
+2022-06-16 21:35:40,014 - logger_File -INFO - Scenario register for Affiliate Account started
+2022-06-16 21:35:42,580 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 21:35:42,611 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\jalal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 21:35:53,208 - logger_File -INFO - Test Environment Text Successfully Displyed 
+2022-06-16 21:40:21,604 - logger_File -INFO - Scenario register for Affiliate Account started
+2022-06-16 21:40:23,350 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 21:40:23,391 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\jalal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-16 21:40:30,316 - logger_File -INFO - Test Environment Text Successfully Displyed 
+2022-06-16 21:40:33,118 - logger_File -INFO - Click on my Account was Successfully clicked 
+2022-06-16 21:40:33,870 - logger_File -INFO - Click on login was Successfully clicked 
+2022-06-16 21:40:34,819 - logger_File -INFO - Email was entered Successfully
+2022-06-16 21:40:35,681 - logger_File -INFO - Login button was clicked Successfully
+2022-06-16 21:40:36,390 - logger_File -INFO - Click on register for an Affliate Account was clicked Successfully
+2022-06-16 21:40:36,652 - logger_File -INFO - Company name was entered Successfully
+2022-06-16 21:40:36,898 - logger_File -INFO - Website name was entered Successfully
+2022-06-16 21:40:37,135 - logger_File -INFO - Tax ID was entered Successfully
+2022-06-16 21:40:37,363 - logger_File -INFO - Radio button was selected Successfully
+2022-06-16 21:40:37,664 - logger_File -INFO - Cheque Payee information was entered Successfully
+2022-06-16 21:40:37,903 - logger_File -INFO - About Us checkbox was selected successfully
+2022-06-16 21:40:39,103 - logger_File -INFO - Continue button was clicked successfully
+2022-06-16 21:40:40,613 - logger_File -INFO - Scenario register for Affiliate Account PASSED
+2022-06-18 22:31:34,190 - logger_File -INFO - Scenario register for Affiliate Account started
+2022-06-18 22:31:40,251 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-18 22:31:40,333 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\jalal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-18 22:31:52,738 - logger_File -INFO - Test Environment Text Successfully Displyed 
+2022-06-18 22:31:52,881 - logger_File -INFO - Click on my Account was Successfully clicked 
+2022-06-18 22:31:53,482 - logger_File -INFO - Click on login was Successfully clicked 
+2022-06-18 22:31:54,101 - logger_File -INFO - Email was entered Successfully
+2022-06-18 22:31:54,894 - logger_File -INFO - Login button was clicked Successfully
+2022-06-18 22:32:49,197 - logger_File -INFO - Scenario register for Affiliate Account started
+2022-06-18 22:32:50,445 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-18 22:32:50,493 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\jalal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-18 22:32:59,713 - logger_File -INFO - Test Environment Text Successfully Displyed 
+2022-06-18 22:36:45,467 - logger_File -INFO - Scenario register for Affiliate Account started
+2022-06-18 22:36:46,872 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-18 22:36:46,914 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\jalal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-18 22:36:55,463 - logger_File -INFO - Test Environment Text Successfully Displyed 
+2022-06-18 22:40:17,183 - logger_File -INFO - Scenario register for Affiliate Account started
+2022-06-18 22:40:18,437 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-18 22:40:18,483 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\jalal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-18 22:40:26,707 - logger_File -INFO - Test Environment Text Successfully Displyed 
+2022-06-18 22:40:50,757 - logger_File -INFO - Click on my Account was Successfully clicked 
+2022-06-18 22:40:51,563 - logger_File -INFO - Click on login was Successfully clicked 
+2022-06-18 22:40:52,303 - logger_File -INFO - Email was entered Successfully
+2022-06-18 22:40:53,108 - logger_File -INFO - Login button was clicked Successfully
